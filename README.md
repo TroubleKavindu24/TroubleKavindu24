@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Supun+Seneviratne+.+.+.+.+.)](https://git.io/typing-svg)
+
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Kavindu Rukshan</h1>
 <h3 align="center">Undergraduate student at SLIIT.</h3>
