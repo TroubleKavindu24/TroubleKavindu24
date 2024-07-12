@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kavindu Rukshan</h1>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Kavindu+Rukshan+.+.+.+.+." alt="Typing SVG">
+</a>
+<h1 align="center">Frontend Developer | UI/UX </h1>
+
 <h3 align="center">🎓 Undergraduate student at SLIIT 🎓</h3>
 <img align="right" alt="coding" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
 
